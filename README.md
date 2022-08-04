@@ -1,1 +1,19 @@
-we can change the host name to something else that you would want but hosting for this site should be free we could foward ads here
+Osed prep
+
+Shellcode
+-shellcode handbook 
+
+Assembly
+-Htb x86 assembly 
+-x32 assembly class canvas
+
+C
+-udemy course
+
+Python 
+-bendtech python course 
+
+Reverse engineering
+-zeroToAutomated rev eng course
+
+
